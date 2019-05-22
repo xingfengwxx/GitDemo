@@ -14,4 +14,8 @@ class MainActivity : AppCompatActivity() {
     private fun login() {
         
     }
+
+    private fun bugfix() {
+        
+    }
 }
