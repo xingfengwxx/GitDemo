@@ -18,4 +18,8 @@ class MainActivity : AppCompatActivity() {
     private fun bugfix() {
         
     }
+
+    private fun bugfixOnline() {
+        //修复线上版本1.0.0的bug
+    }
 }
