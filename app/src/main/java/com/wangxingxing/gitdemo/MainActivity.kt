@@ -22,4 +22,8 @@ class MainActivity : AppCompatActivity() {
     private fun bugfixOnline() {
         //修复线上版本1.0.0的bug
     }
+
+    private fun logout() {
+        //新增退出功能
+    }
 }
